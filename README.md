@@ -1,3 +1,5 @@
+Here is a react app - RoboFriends with multiple cards with robots. You can search for your favorite robo :D
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
