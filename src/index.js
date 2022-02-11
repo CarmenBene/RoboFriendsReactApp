@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import SearchBox from './SearchBox';
+import App from './containers/App';
 import 'tachyons';
 
 ReactDOM.render(
